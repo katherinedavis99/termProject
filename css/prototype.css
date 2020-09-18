@@ -1,0 +1,19 @@
+img {
+    border: 8px solid #000000;  
+}
+body {
+    background-color: #cae9ff;
+}
+h1 {
+    color: #1b4965;
+}
+p {
+    color: #1b4965;
+}
+#top {
+    border-left: 25px solid #000000;
+}
+a {
+    color: #62b6cb;
+    border: 3px solid #62b6cb;
+}
