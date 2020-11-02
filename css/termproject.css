@@ -1,0 +1,33 @@
+img {
+    border: 12px solid #1b4965;
+    display: block;  
+}
+body {
+    background-color: #cae9ff;
+}
+h1 {
+    color: #1b4965;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+p {
+    color: #1b4965;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px
+}
+#top {
+    border-left: 23px solid #1b4965;
+}
+a {
+    color: #62b6cb;
+    border: 7px solid #62b6cb;
+}
+.katherine {
+    width: 250px;
+    height: 320px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+    
